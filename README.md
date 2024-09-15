@@ -16,11 +16,3 @@ Welcome to my GitHub profile! I'm Abdurakhmon Davronov, a dedicated Flutter deve
 ### 🤝 Let's Connect
 
 I'm always interested in connecting with fellow developers, sharing knowledge, and collaborating on exciting projects. Feel free to reach out to me through any of the channels mentioned above!
-
-### ⚡ Fun Fact
-
-When I'm not coding, you can find me exploring new hiking trails or experimenting with gourmet coffee recipes!
-
-Thanks for visiting my profile! 😊
-
-Feel free to customize it with your own information, projects, and personality!
