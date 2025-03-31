@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Abdurakhmon Davronov, a dedicated Flutter deve
 - 🌱 I’m continuously learning and experimenting with new technologies and best practices in mobile development.
 - 👯 I’m looking to collaborate on open-source Flutter projects to contribute to the vibrant developer community.
 - 💬 Ask me about Flutter, Dart, mobile app development, UI/UX design, or anything related to software engineering!
-- 📫 How to reach me: [Email](mailto:abdurakhmon278@gmail.com) | [LinkedIn](https://www.linkedin.com/in/prodevuz)
+- 📫 How to reach me: [Email](mailto:abdurakhmon278@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abdurrohmandavron)
 - 😄 Pronouns: He/Him
 
 ### 🤝 Let's Connect
