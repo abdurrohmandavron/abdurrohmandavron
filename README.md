@@ -1,18 +1,26 @@
-# Hi there! 👋
+Hi there, I'm Abdurakhmon Davronov 👋
+👨‍💻 Software Engineer | Mobile & Backend Specialist
+I’m a developer who loves building things that live on the internet. My focus is on writing clean, maintainable code and solving architectural puzzles. Currently, I'm diving deep into building scalable mobile architectures and high-performance backend systems.
 
-## Flutter Developer | Passionate about Crafting Digital Experiences
+🛠️ My Toolbox
+Languages: Dart, Python
 
-Welcome to my GitHub profile! I'm Abdurakhmon Davronov, a dedicated Flutter developer enthusiastic about building beautiful and performant mobile applications. With a keen eye for design and a knack for solving complex problems, I strive to create impactful digital experiences that delight users.
+Frameworks: Flutter, FastAPI
 
-### 🚀 About Me
+Databases: PostgreSQL, Redis
 
-- 🔭 I’m currently working on honing my Flutter skills and exploring advanced app architectures.
-- 🌱 I’m continuously learning and experimenting with new technologies and best practices in mobile development.
-- 👯 I’m looking to collaborate on open-source Flutter projects to contribute to the vibrant developer community.
-- 💬 Ask me about Flutter, Dart, mobile app development, UI/UX design, or anything related to software engineering!
-- 📫 How to reach me: [Email](mailto:abdurakhmon278@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abdurrohmandavron)
-- 😄 Pronouns: He/Him
+Infrastructure: Docker, AWS
 
-### 🤝 Let's Connect
+🚀 What I'm Up To
+🔭 Currently working on: Reservation Management Platform
 
-I'm always interested in connecting with fellow developers, sharing knowledge, and collaborating on exciting projects. Feel free to reach out to me through any of the channels mentioned above!
+🌱 Currently learning: Advanced System Design and Cloud-Native patterns.
+
+👯 Collaboration: I'm open to collaborating on open-source Flutter packages or Python-based microservices.
+
+💬 Ask me about: Flutter state management, RESTful API design, or anything related to Software Engineering.
+
+📫 Let's Connect
+LinkedIn: https://linkedin.com/in/abdurrohmandavron
+
+Email: abdurakhmon278@gmail.com
