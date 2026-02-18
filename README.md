@@ -12,7 +12,7 @@
 <h3>🛠️ My Toolbox</h3>
 
 <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=dart,flutter,python,fastapi,postgres,redis,docker,aws&theme=dark" alt="My Skills" />
+      <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,python,fastapi,postgres,redis,docker,linux,aws&theme=dark" alt="My Skills" />
 </a>
 
   <br>
